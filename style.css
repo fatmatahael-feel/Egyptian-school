@@ -1,0 +1,30 @@
+width-image{
+    width: 10%;
+}
+
+
+.title h2{
+    font-size: 3.5rem;
+    font-weight: 900;
+}
+
+
+.div-footer{
+ width:100% ;
+ height: 100px;
+ background-color: rgb(114, 180, 255);
+ color: rgb(104, 174, 255);
+justify-content: center;
+ display: flex;
+ align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
